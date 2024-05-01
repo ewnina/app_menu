@@ -69,7 +69,7 @@ const  ShoppingCartModal: React.FC<ShopingCartProps> = ({ toggleModal, isOpen })
             <div className="mt-6">
                 <button className="w-full bg-blue-500 text-white p-3 rounded" onClick={toggleModal} >Ordenar</button>
 
-               	<a href="https://wa.me/18293839651?text=Me%20gustaría%20saber%20el%20precio%20del%20coche" className="whatsapp" target="_blank"></a>
+               	<a href="https://wa.me/18293839651?text=Me%20gustaría%20saber%20el%20precio%20del%20coche" className="whatsapp" target="_blank">Enviar a WS</a>
                 
             </div>
             </div>
