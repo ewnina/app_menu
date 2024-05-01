@@ -56,7 +56,7 @@ export default function HomePage() {
     </div>
 
     <div className="flex gap-1 mt-2 px-6 overflow-x-auto">
-      <button className="bg-yellow-500 text-white px-4 py-1 rounded-full">Todoss </button>
+      <button className="bg-yellow-500 text-white px-4 py-1 rounded-full">Todos</button>
       <button className="bg-zinc-200 text-zinc-800 px-4 py-1 rounded-full dark:bg-zinc-700 dark:text-zinc-300">
         Plato
       </button>
